@@ -66,8 +66,7 @@ mern-todo-app/
 │   └── .env
 ├── frontend/
 │   └── src/
-│       ├── components/
-│       │   └── Todo.js
+│       ├── Todo.js
 │       ├── TodoApp.js
 │       ├── Todo.css
 │       └── index.js
