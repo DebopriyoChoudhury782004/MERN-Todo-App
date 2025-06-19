@@ -75,7 +75,7 @@ mern-todo-app/
 │   │   └── index.html              # Main HTML template
 │   ├── src/
 │   │   ├── components/
-│   │   |	 ├── api.js                  # Axios/API utility
+│   │   |	  ├── api.js              # Axios/API utility
 │   │   │   ├── Login.js            # Login form component
 │   │   │   ├── Login.css           # Login Styling
 │   │   │   ├── PrivateRoute.js     # Protected route HOC
