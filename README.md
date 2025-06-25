@@ -77,7 +77,7 @@ mern-todo-app/
 │   │   ├── components/
 |   |   |   ├── Footer.js           # Footer file
 |   |   |   ├── Footer.css           # Footer styling
-│   │   |	├── api.js              # Axios/API utility
+│   │   |	  ├── api.js              # Axios/API utility
 │   │   │   ├── Login.js            # Login form component
 │   │   │   ├── Login.css           # Login Styling
 │   │   │   ├── PrivateRoute.js     # Protected route HOC
